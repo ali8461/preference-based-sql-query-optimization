@@ -3,7 +3,7 @@
 A Python + PL/SQL implementation of **preference-based query optimization** using the **Winnow Operator** and various **preference composition techniques**. This project enhances standard SQL querying capabilities by enabling user-centric filtering and ranking of database tuples based on customized preference formulas.
 
 
-![Result](result.png)
+![Result](result.PNG)
 ## ✨ Features
 
 * **Winnow Operator** — Filter non-dominated tuples according to user-defined preferences.
