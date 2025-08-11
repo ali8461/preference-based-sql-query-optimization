@@ -81,3 +81,6 @@ Upon running the script, you’ll see an interactive menu:
 ├── README.md                # This file
 └── (SQL scripts if needed)  # SQL files for table creation (optional)
 ```
+## Note on code availability
+
+"Due to academic restrictions, the source code cannot be made public. Please contact me directly for more details or a demonstration."
